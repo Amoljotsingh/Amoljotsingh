@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @Amoljotsingh
-- 👀 I’m interested in python and dart development
-- 🌱 I’m currently learning to build crossplatform apps with flutter
-- 💞️ I’m looking to collaborate on startup tech projects which add value to the community
-- 📫 How to reach me amoljotsingh@icloud.com
+- 👀 I’m interested new tech with open source development
+- 🌱 I’m currently learning to build crossplatform apps and webapps
+- 💞️ I’m looking to collaborate on startup tech projects which adds value to the community
+- 📫 How to reach me: amoljotsingh@icloud.com
 
 <!---
 Amoljotsingh/Amoljotsingh is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
