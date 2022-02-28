@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Amoljotsingh
-- 👀 I’m interested new tech with open source development
+- 👀 I’m interested in new tech with open source development
 - 🌱 I’m currently learning to build crossplatform apps and webapps
 - 💞️ I’m looking to collaborate on startup tech projects which adds value to the community
 - 📫 How to reach me: amoljotsingh@icloud.com
