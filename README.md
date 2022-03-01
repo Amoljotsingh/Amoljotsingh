@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning to build crossplatform apps and webapps
 - 💞️ I’m looking to collaborate on startup tech projects which adds value to the community
 - 📫 How to reach me: amoljotsingh@icloud.com
-- website: amol.studio
+- website: www.amol.studio
 
 <!---
 Amoljotsingh/Amoljotsingh is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
