@@ -4,7 +4,7 @@ Hi 👋 My name is Amoljot Singh
 Full Stack App Developer
 ------------------------
 
-Hi, I am a self learned full stack developer, and an architect by profession, I am an open-source enthusiastic. I am interested in tech startups which add value to community.
+I am a young Entrepreneur, an Architect and a full stack Developer. I am an Open-Source enthusiastic. My background in technology, visual design, innovation and management makes my professional approach mindful yet competitive. I am fueled by my passion for understanding the dynamics of multi-dimentional art in blend with logic. I am always eager to build on my learning foundations in adaptive art styles and technology and stay in tune with the latest technological feats of mankind through continued coursework and professional development.
 
 * 🌍  I'm based in India
 * 🖥️  See my portfolio at [amol.studio](http://amoljotsingh.github.io)
