@@ -4,13 +4,12 @@ Hi 👋 My name is Amoljot Singh
 Full Stack App Developer
 ------------------------
 
-I am a young Entrepreneur, an Architect and a full stack Developer. I am an Open-Source enthusiastic. My background in technology, visual design, innovation and management makes my professional approach mindful yet competitive. I am fueled by my passion for understanding the dynamics of multi-dimentional art in blend with logic. I am always eager to build on my learning foundations in adaptive art styles and technology and stay in tune with the latest technological feats of mankind through continued coursework and professional development.
+I am an Architect and a full stack Developer. I am an Open-Source enthusiastic. I am fueled by my passion for understanding the dynamics of multi-dimentional art in blend with logic. I am always eager to build on my learning foundations in adaptive art styles and technology.
 
 * 🌍  I'm based in India
-* 🖥️  See my portfolio at [amol.studio](http://amoljotsingh.github.io)
+* 🖥️  See my portfolio [here](http://amoljotsingh.github.io)
 * ✉️  You can contact me at [amoljotsingh@icloud.com](mailto:amoljotsingh@icloud.com)
-* 🚀  I'm currently working on [My structure design algorithms](http://amoljotsingh.github.io)
-* 🧠  I'm learning machine learning and big data
+* 🧠  I'm learning machine learning
 * 🤝  I'm open to collaborating on startups adding value to community
 
 ### Skills
@@ -24,11 +23,6 @@ I am a young Entrepreneur, an Architect and a full stack Developer. I am an Open
 <a href="https://www.adobe.com/uk/products/photoshop.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/photoshop-colored.svg" width="36" height="36" alt="Photoshop" /></a>
 <a href="https://www.adobe.com/uk/products/xd.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/xd-colored.svg" width="36" height="36" alt="XD" /></a>
 </p>
-
-
-### Socials
-
-<p align="left"> <a href="http://www.instagram.com/amoljot_singh" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a></p>
 
 ### Badges
 
